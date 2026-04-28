@@ -1,1 +1,1 @@
-O foco deste projeto é tratar os dados da base de dados contendo 1000 linhas de dados sintéticos que simulam prêmios de seguro de automóveis, calculados usando uma fórmula linear.
+O foco deste projeto é tratar os dados da base de dados contendo 1000 linhas de dados sintéticos que simulam prêmios de seguro de automóveis, calculados usando uma fórmula linear. Este é um projeto proposto pelo Instituto Arte dos Dados para fins de aprendizado de como realizar tratamento de banco de dados utilizando Python.
